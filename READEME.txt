@@ -1,0 +1,28 @@
+
+# C Password Checker
+
+A simple password strength checker written in C.
+
+## Features
+
+- Password length greater than 8 characters
+- At least one uppercase letter
+- At least one lowercase letter
+- At least one number
+- At least one symbol
+
+## How to Compile
+
+```bash
+gcc password_checker.c -o password.exe
+```
+
+## How to Run
+
+```bash
+./password.exe
+```
+
+## Language
+
+C
